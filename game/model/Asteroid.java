@@ -1,4 +1,4 @@
-package edu.uchicago.gerber._08final.mvc.model;
+package game.model;
 
 
 import java.util.ArrayList;

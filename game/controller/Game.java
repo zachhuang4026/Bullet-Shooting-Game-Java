@@ -1,7 +1,7 @@
-package edu.uchicago.gerber._08final.mvc.controller;
+package game.controller;
 
-import edu.uchicago.gerber._08final.mvc.model.*;
-import edu.uchicago.gerber._08final.mvc.view.GamePanel;
+import game.model.*;
+import game.view.GamePanel;
 
 
 import javax.sound.sampled.Clip;

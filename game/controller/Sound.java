@@ -1,4 +1,4 @@
-package edu.uchicago.gerber._08final.mvc.controller;
+package game.controller;
 
 
 

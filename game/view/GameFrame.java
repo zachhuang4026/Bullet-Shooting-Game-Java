@@ -1,4 +1,4 @@
-package edu.uchicago.gerber._08final.mvc.view;
+package game.view;
 
 import java.awt.*;
 import java.awt.event.*;

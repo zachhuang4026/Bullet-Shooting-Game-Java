@@ -1,4 +1,4 @@
-package edu.uchicago.gerber._08final.mvc.view;
+package game.view;
 
 import edu.uchicago.gerber._08final.mvc.controller.Game;
 import edu.uchicago.gerber._08final.mvc.model.CommandCenter;

@@ -1,11 +1,8 @@
-package edu.uchicago.gerber._08final.mvc.model;
+package game.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-/**
- * Created by ag on 6/17/2015.
- */
 
 //the lombok @Data gives us automatic getters and setters
 @Data

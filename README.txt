@@ -1,4 +1,4 @@
-This is a GUI bullet shooting game based on Java programming.
+This is a GUI bullet shooting game coded in Java.
 
 The repo includes 3 sub-repo:
 - controller: contains drivers to excute game and sound
@@ -11,5 +11,4 @@ The repo includes 3 sub-repo:
 -- CommandCenter: receive user input from keyboard
 -- Movable: interface to management all game objects
 -- Sprite: interface to management movements
-
 - view: GUI for game
